@@ -1,12 +1,12 @@
 {
-  "ID" : ,
-  "Summary" : ,
-  "Project" : ,
-  "Version" : ,
-  "Severity" : ,
-  "Priority" : ,
-  "Steps" : ,
-  "ОР" : ,
-  "ФР" : ,
-  "Исполнитель" :
+  "ID",
+  "Summary",
+  "Project",
+  "Version",
+  "Severity",
+  "Priority",
+  "Steps",
+  "ОР",
+  "ФР",
+  "Исполнитель"
 }
